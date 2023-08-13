@@ -1,0 +1,13 @@
+D:\UploadFileWithWCF\UploadFile.WCF\obj\Debug\UploadFile.WCF.csprojAssemblyReference.cache
+D:\UploadFileWithWCF\UploadFile.WCF\obj\Debug\UploadFile.WCF.csproj.CoreCompileInputs.cache
+D:\UploadFileWithWCF\UploadFile.WCF\bin\UploadFile.WCF.dll.config
+D:\UploadFileWithWCF\UploadFile.WCF\bin\UploadFile.WCF.dll
+D:\UploadFileWithWCF\UploadFile.WCF\bin\UploadFile.WCF.pdb
+D:\UploadFileWithWCF\UploadFile.WCF\bin\UploadFile.DAL.dll
+D:\UploadFileWithWCF\UploadFile.WCF\bin\EntityFramework.dll
+D:\UploadFileWithWCF\UploadFile.WCF\bin\UploadFile.DAL.pdb
+D:\UploadFileWithWCF\UploadFile.WCF\bin\UploadFile.DAL.dll.config
+D:\UploadFileWithWCF\UploadFile.WCF\bin\EntityFramework.xml
+D:\UploadFileWithWCF\UploadFile.WCF\obj\Debug\UploadFile.WCF.csproj.CopyComplete
+D:\UploadFileWithWCF\UploadFile.WCF\obj\Debug\UploadFile.WCF.dll
+D:\UploadFileWithWCF\UploadFile.WCF\obj\Debug\UploadFile.WCF.pdb

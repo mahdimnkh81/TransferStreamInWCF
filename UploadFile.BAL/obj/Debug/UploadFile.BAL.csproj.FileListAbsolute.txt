@@ -1,0 +1,7 @@
+D:\UploadFileWithWCF\UploadFile.BAL\bin\Debug\UploadFile.BAL.dll.config
+D:\UploadFileWithWCF\UploadFile.BAL\bin\Debug\UploadFile.BAL.dll
+D:\UploadFileWithWCF\UploadFile.BAL\bin\Debug\UploadFile.BAL.pdb
+D:\UploadFileWithWCF\UploadFile.BAL\obj\Debug\UploadFile.BAL.csprojAssemblyReference.cache
+D:\UploadFileWithWCF\UploadFile.BAL\obj\Debug\UploadFile.BAL.csproj.CoreCompileInputs.cache
+D:\UploadFileWithWCF\UploadFile.BAL\obj\Debug\UploadFile.BAL.dll
+D:\UploadFileWithWCF\UploadFile.BAL\obj\Debug\UploadFile.BAL.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="740f390c-cf4b-46c8-b987-ea573a737f15" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:64666/UploadFileService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="UploadFileService.xsd" MetadataType="Schema" ID="db98231d-094d-41fd-9d3c-fa781f2079bf" SourceId="1" SourceUrl="http://localhost:64666/UploadFileService.svc?xsd=xsd1" />
+    <MetadataFile FileName="UploadFileService1.xsd" MetadataType="Schema" ID="063b23e4-ae8b-48e3-a06f-f1fbd43ac466" SourceId="1" SourceUrl="http://localhost:64666/UploadFileService.svc?xsd=xsd0" />
+    <MetadataFile FileName="UploadFileService.disco" MetadataType="Disco" ID="979695dc-9634-4360-84ec-05b8f21d7552" SourceId="1" SourceUrl="http://localhost:64666/UploadFileService.svc?disco" />
+    <MetadataFile FileName="UploadFileService.wsdl" MetadataType="Wsdl" ID="78f0f341-a1c4-4afc-bd74-2d9d4df17e78" SourceId="1" SourceUrl="http://localhost:64666/UploadFileService.svc?wsdl" />
+    <MetadataFile FileName="UploadFileService2.xsd" MetadataType="Schema" ID="d28e58ea-64d6-4fd8-ae16-683aafbf3546" SourceId="1" SourceUrl="http://localhost:64666/UploadFileService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
